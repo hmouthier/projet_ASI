@@ -1,2 +1,2 @@
-Salut  
+TEST COMMIT
 Test : Information about the process
